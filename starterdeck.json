@@ -1,0 +1,6 @@
+{
+"Basic": {
+        "Basic_0" : {"Name" : "Sword", "Description" : "Gain 1 attack.", "Count" : "3"},
+        "Basic_1" : {"Name" : "Coin", "Description" : "Gain 1 gold.", "Count" : "3"}
+    }
+}

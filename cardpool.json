@@ -1,0 +1,122 @@
+{
+    "Basic_0" : {"Name" : "Ether", "Description" : "+1 Mana", "Count" : "5", "ID" : "Basic_0", "Hands" : "0", "ATK" : "0", "DEF" : "2"},
+    "Basic_1" : {"Name" : "Coin", "Description" : "+1 Gold", "Count" : "5", "ID" : "Basic_1", "Hands" : "0", "ATK" : "0", "DEF" : "2"},
+    "Basic_2" : {"Name" : "Vigor", "Description" : "+1 Stamina", "Count" : "5", "ID" : "Basic_2", "Hands" : "0", "ATK" : "0", "DEF" : "2"},
+    "Basic_3" : {"Name" : "Elixir", "Description" : "+1 Stamina\n& +1 Mana", "Count" : "5", "ID" : "Basic_3", "Hands" : "0", "ATK" : "0", "DEF" : "2"},
+
+    "Rogue_0" : 
+{"Name" : "Pick Pocket", "Description" : "+4 Gold", "ID" : "Rogue_0", "mCost" : "0", "gCost" : "0", "sCost" : "5", "Hands" : "0", "ATK" : "0", "DEF" : "0", "Rarity" : "5"},
+    "Rogue_1" : 
+{"Name" : "Tumble", "Description" : "+2 Stamina", "ID" : "Rogue_1", "mCost" : "0", "gCost" : "0", "sCost" : "3", "Hands" : "0", "ATK" : "0", "DEF" : "4", "Rarity" : "4"},
+    "Rogue_2" : 
+{"Name" : "Dagger", "Description" : "+2 Gold", "ID" : "Rogue_2", "mCost" : "0", "gCost" : "2", "sCost" : "0", "Hands" : "1", "ATK" : "2", "DEF" : "0", "Rarity" : "4"},
+    "Rogue_3" : 
+{"Name" : "Scout Ahead", "Description" : "Draw 3", "ID" : "Rogue_3", "mCost" : "0", "gCost" : "0", "sCost" : "5", "Hands" : "0", "ATK" : "0", "DEF" : "2", "Rarity" : "4"},
+    "Rogue_4" : 
+{"Name" : "Backstab", "Description" : "+2 Stamina", "ID" : "Rogue_4", "mCost" : "0", "gCost" : "0", "sCost" : "4", "Hands" : "0", "ATK" : "4", "DEF" : "0", "Rarity" : "3"},
+    "Rogue_5" : 
+{"Name" : "Garrote", "Description" : "+3 Gold", "ID" : "Rogue_5", "mCost" : "0", "gCost" : "5", "sCost" : "0", "Hands" : "2", "ATK" : "8", "DEF" : "0", "Rarity" : "2"},
+
+
+    "Bard_0" : 
+{"Name" : "Performance", "Description" : "+4 Gold", "ID" : "Bard_0", "mCost" : "5", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "0", "DEF" : "0", "Rarity" : "5"},
+    "Bard_1" : 
+{"Name" : "Gather Intel", "Description" : "Draw 3", "ID" : "Bard_1", "mCost" : "5", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "2", "Rarity" : "4"},
+    "Bard_2" : 
+{"Name" : "Dirge", "Description" : "+2 Mana", "ID" : "Bard_2", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "4", "Rarity" : "4"},
+    "Bard_3" : 
+{"Name" : "Rapier", "Description" : "+2 Gold", "ID" : "Bard_3", "mCost" : "0", "gCost" : "2", "sCost" : "0", "Hands" : "1", "ATK" : "2", "DEF" : "0", "Rarity" : "4"},
+    "Bard_4" : 
+{"Name" : "High Note", "Description" : "+2 Mana", "ID" : "Bard_4", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "4", "DEF" : "0", "Rarity" : "3"},
+    "Bard_5" : 
+{"Name" : "Charm Person", "Description" : "+3 Mana", "ID" : "Bard_5", "mCost" : "4", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "4", "DEF" : "4", "Rarity" : "2"},
+
+
+    "Knight_0" : 
+{"Name" : "Buckler", "Description" : "+2 Gold", "ID" : "Knight_0", "mCost": "0", "gCost" : "3", "sCost" : "0", "Hands" : "1", "ATK" : "0", "DEF" : "4", "Rarity" : "4"},
+    "Knight_1" : 
+{"Name" : "Tower Shield", "Description" : "+3 Gold", "ID" : "Knight_1", "mCost": "0", "gCost" : "5", "sCost" : "0", "Hands" : "1", "ATK" : "0", "DEF" : "7", "Rarity" : "1"},
+    "Knight_2" : 
+{"Name" : "Longsword", "Description" : "+3 Gold", "ID" : "Knight_2", "mCost": "0", "gCost" : "4", "sCost" : "0", "Hands" : "1", "ATK" : "4", "DEF" : "1", "Rarity" : "3"},
+    "Knight_3" : 
+{"Name" : "Shortsword", "Description" : "+2 Gold", "ID" : "Knight_3", "mCost": "0", "gCost" : "3", "sCost" : "0", "Hands" : "1", "ATK" : "3", "DEF" : "0", "Rarity" : "4"},
+    "Knight_4" : 
+{"Name" : "Riposte", "Description" : "+2 Stamina", "ID" : "Knight_4", "mCost": "0", "gCost" : "0", "sCost" : "4", "Hands" : "0", "ATK" : "2", "DEF" : "3", "Rarity" : "5"},
+    "Knight_5" : 
+{"Name" : "Quick Blade", "Description" : "+3 Stamina", "ID" : "Knight_5", "mCost": "0", "gCost" : "0", "sCost" : "3", "Hands" : "0", "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Knight_6" : 
+{"Name" : "Rally", "Description" : "Draw 2", "ID" : "Knight_6", "mCost": "0", "gCost" : "0", "sCost" : "3", "Hands" : "0", "ATK" : "0", "DEF" : "0", "Rarity" : "3"},
+
+
+    "Barbarian_0" : 
+{"Name" : "Greataxe", "Description" : "+3 Gold", "ID" : "Barbarian_0", "mCost": "0", "gCost" : "5", "sCost" : "0", "Hands" : "2", "ATK" : "7", "DEF" : "0", "Rarity" : "4"},
+    "Barbarian_1" : 
+{"Name" : "Frenzy", "Description" : "Discard your hand, draw that many cards", "ID" : "Barbarian_1", "mCost": "0", "gCost" : "0", "sCost" : "4", "Hands" : "0", "ATK" : "2", "DEF" : "4", "Rarity" : "3"},
+    "Barbarian_2" : 
+{"Name" : "Axe", "Description" : "+2 Gold", "ID" : "Barbarian_2", "mCost": "0", "gCost" : "3", "sCost" : "0", "Hands" : "1", "ATK" : "4", "DEF" : "0", "Rarity" : "5"},
+    "Barbarian_3" : 
+{"Name" : "Enrage", "Description" : "Draw 2", "ID" : "Barbarian_3", "mCost": "0", "gCost" : "0", "sCost" : "4", "Hands" : "0", "ATK" : "3", "DEF" : "3", "Rarity" : "3"},
+    "Barbarian_4" : 
+{"Name" : "Flip Table", "Description" : "Reshuffle the Shop cards", "ID" : "Barbarian_4", "mCost": "0", "gCost" : "0", "sCost" : "4", "Hands" : "0", "ATK" : "0", "DEF" : "4", "Rarity" : "2"},
+    "Barbarian_5" : 
+{"Name" : "Overpower", "Description" : "+3 Stamina, Combat: +2 ATK if using 2h weapon", "ID" : "Barbarian_5", "mCost": "0", "gCost" : "0", "sCost" : "5", "Hands" : "0", "ATK" : "4", "DEF" : "0", "Rarity" : "2"},
+    "Barbarian_6" : 
+{"Name" : "Slam", "Description" : "+2 Stamina", "ID" : "Barbarian_6", "mCost": "0", "gCost" : "0", "sCost" : "3", "Hands" : "0", "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Barbarian_7" : 
+{"Name" : "Titan's Greataxe", "Description" : "+4 Gold", "ID" : "Barbarian_7", "mCost": "0", "gCost" : "7", "sCost" : "0", "Hands" : "2", "ATK" : "9", "DEF" : "0", "Rarity" : "1"},
+
+
+    "Wizard_0" : 
+{"Name" : "Mirror Image", "Description" : "+3 Mana", "ID" : "Wizard_0", "mCost" : "4", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "7", "Rarity" : "1"},
+    "Wizard_1" : 
+{"Name" : "Spark", "Description" : "+2 Mana", "ID" : "Wizard_1", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Wizard_2" : 
+{"Name" : "Fireball", "Description" : "+4 Mana", "ID" : "Wizard_2", "mCost" : "5", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "8", "DEF" : "0", "Rarity" : "2"},
+    "Wizard_3" : 
+{"Name" : "Crystal Ball", "Description" : "Draw 2", "ID" : "Wizard_3", "mCost" : "0", "gCost" : "4", "sCost" : "0",  "ATK" : "0", "DEF" : "0", "Hands" : "0", "Rarity" : "3"},
+    "Wizard_4" : 
+{"Name" : "Wand of Rays", "Description" : "+3 Gold", "ID" : "Wizard_4", "mCost" : "0", "gCost" : "4", "sCost" : "0",  "ATK" : "5", "DEF" : "0", "Hands" : "1", "Rarity" : "4"},
+    "Wizard_5" : 
+{"Name" : "Lightning Bolt", "Description" : "+3 Mana", "ID" : "Wizard_5", "mCost" : "4", "gCost" : "0", "sCost" : "0",  "ATK" : "5", "DEF" : "0", "Hands" : "0", "Rarity" : "4"},
+
+
+    "Artificer_0" : 
+{"Name" : "Aimed Shot", "Description" : "+2 Stamina", "ID" : "Artificer_0", "mCost" : "0", "gCost" : "0", "sCost" : "3", "Hands" : "0", "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Artificer_1" : 
+{"Name" : "Arcane Shot", "Description" : "+2 Mana", "ID" : "Artificer_1", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Artificer_2" : 
+{"Name" : "Acid Vial", "Description" : "+2 Gold", "ID" : "Artificer_2", "mCost" : "0", "gCost" : "4", "sCost" : "0", "Hands" : "1", "ATK" : "4", "DEF" : "0", "Rarity" : "4"},
+    "Artificer_3" : 
+{"Name" : "Iron Golem", "Description" : "+3 Gold", "ID" : "Artificer_3", "mCost" : "0", "gCost" : "6", "sCost" : "0", "Hands" : "0", "ATK" : "5", "DEF" : "5", "Rarity" : "2"},
+    "Artificer_4" : 
+{"Name" : "Annihilator Engine", "Description" : "Combat: Win with 3 unique Annihilator parts", "ID" : "Artificer_4", "mCost" : "0", "gCost" : "6", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "0", "Rarity" : "1"},
+    "Artificer_5" : 
+{"Name" : "Annihilator Cannon", "Description" : "Combat: Win with 3 unique Annihilator parts", "ID" : "Artificer_5", "mCost" : "0", "gCost" : "7", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "0", "Rarity" : "1"},
+    "Artificer_6" : 
+{"Name" : "Annihilator Chassis", "Description" : "Combat: Win with 3 unique Annihilator parts", "ID" : "Artificer_6", "mCost" : "0", "gCost" : "8", "sCost" : "0", "Hands" : "0", "ATK" : "0", "DEF" : "0", "Rarity" : "1"},
+
+
+    "Necromancer_0" : 
+{"Name" : "Zombie", "Description" : "+2 Mana", "ID" : "Necromancer_0", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "2", "DEF" : "3", "Rarity" : "5"},
+    "Necromancer_1" : 
+{"Name" : "Dredge Up", "Description" : "Retrieve a card from your discard", "ID" : "Necromancer_1", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "4", "DEF" : "0", "Rarity" : "2"},
+    "Necromancer_2" : 
+{"Name" : "Withering Curse", "Description" : "Lose 2 life, draw 1", "ID" : "Necromancer_2", "mCost" : "4", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "-2", "DEF" : "-2", "Rarity" : "3"},
+    "Necromancer_3" : 
+{"Name" : "Necrotic Curse", "Description" : "Lose 4 life, draw 1", "ID" : "Necromancer_3", "mCost" : "7", "gCost" : "0", "sCost" : "0", "Hands" : "0", "ATK" : "-3", "DEF" : "-3", "Rarity" : "1"},
+    "Necromancer_4" : 
+{"Name" : "Blightning", "Description" : "+3 Mana", "ID" : "Necromancer_4", "mCost" : "4", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "4", "DEF" : "0", "Rarity" : "4"},
+    "Necromancer_5" : 
+{"Name" : "Phylactery", "Description" : "Draw 2", "ID" : "Necromancer_5", "mCost" : "0", "gCost" : "4", "sCost" : "0", "Hands" : "0",  "ATK" : "0", "DEF" : "0", "Rarity" : "3"},
+
+
+    "Priest_0" : 
+{"Name" : "Smite", "Description" : "+2 Mana", "ID" : "Priest_0", "mCost" : "3", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Priest_1" : 
+{"Name" : "Divine Visitation", "Description" : "+4 Mana", "ID" : "Priest_1", "mCost" : "7", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "6", "DEF" : "6", "Rarity" : "1"},
+    "Priest_2" : 
+{"Name" : "Shield of Faith", "Description" : "+3 Mana", "ID" : "Priest_2", "mCost" : "4", "gCost" : "0", "sCost" : "0", "Hands" : "0",  "ATK" : "0", "DEF" : "4", "Rarity" : "4"},
+    "Priest_3" : 
+{"Name" : "Reliquary", "Description" : "Draw 2", "ID" : "Priest_3", "mCost" : "0", "gCost" : "4", "sCost" : "0", "Hands" : "0",  "ATK" : "0", "DEF" : "2", "Rarity" : "3"}
+
+}

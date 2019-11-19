@@ -1,0 +1,61 @@
+{
+    "Basic_0" : {"Name" : "Ether", "Description" : "+1 Mana", "Count" : "7", "ID" : "Basic_0", "ATK" : "0", "DEF" : "2"},
+    "Basic_1" : {"Name" : "Coin", "Description" : "+1 Gold", "Count" : "7", "ID" : "Basic_1", "ATK" : "0", "DEF" : "2"},
+
+
+
+    "Pirates_0" : 
+{"Name" : "Plunderrr", "Description" : "Draw 2", "ID" : "Pirates_0", "mCost" : "3", "gCost" : "0", "ATK" : "0", "DEF" : "3", "Rarity" : "3"},
+    "Pirates_1" : 
+{"Name" : "Swaggerrr", "Description" : "Draw 3", "ID" : "Pirates_1", "mCost" : "3", "gCost" : "0", "ATK" : "0", "DEF" : "3", "Rarity" : "1"},
+    "Pirates_2" : 
+{"Name" : "Willy One-Eye", "Description" : "+3 Gold", "ID" : "Pirates_2", "mCost" : "0", "gCost" : "4",  "ATK" : "4", "DEF" : "2", "Rarity" : "4"},
+    "Pirates_3" : 
+{"Name" : "Scurvy Sea Dog", "Description" : "+2 Gold", "ID" : "Pirates_3", "mCost" : "0", "gCost" : "3",  "ATK" : "3", "DEF" : "2", "Rarity" : "5"},
+    "Pirates_4" : 
+{"Name" : "Cutlass", "Description" : "+2 Gold", "ID" : "Pirates_4", "mCost" : "0", "gCost" : "3",  "ATK" : "3", "DEF" : "0", "Rarity" : "4"},
+    "Pirates_5" : 
+{"Name" : "Blunderbuss", "Description" : "+2 Gold", "ID" : "Pirates_5", "mCost" : "0", "gCost" : "4",  "ATK" : "4", "DEF" : "0", "Rarity" : "3"},
+    "Pirates_6" : 
+{"Name" : "Bucaneer", "Description" : "+3 Gold", "ID" : "Pirates_6", "mCost" : "0", "gCost" : "4",  "ATK" : "4", "DEF" : "2", "Rarity" : "3"},
+    "Pirates_7" : 
+{"Name" : "Corsair", "Description" : "+3 Gold", "ID" : "Pirates_7", "mCost" : "0", "gCost" : "5",  "ATK" : "5", "DEF" : "3", "Rarity" : "2"},
+    "Pirates_8" : 
+{"Name" : "Broadside", "Description" : "+3 Gold", "ID" : "Pirates_8", "mCost" : "0", "gCost" : "5",  "ATK" : "7", "DEF" : "0", "Rarity" : "1"},
+
+
+
+    "Aliens_0" : 
+{"Name" : "Abductor", "Description" : "Combat: nullify one opponent", "ID" : "Aliens_0", "mCost": "0", "gCost" : "6",  "ATK" : "0", "DEF" : "0", "Rarity" : "1"},
+    "Aliens_1" : 
+{"Name" : "Ray Gun", "Description" : "+3 Mana", "ID" : "Aliens_1", "mCost" : "4", "gCost" : "0",  "ATK" : "4", "DEF" : "0", "Rarity" : "4"},
+    "Aliens_2" : 
+{"Name" : "Orbital Bombardment", "Description" : "+3 Mana", "ID" : "Aliens_2", "mCost" : "7", "gCost" : "0",  "ATK" : "7", "DEF" : "0", "Rarity" : "1"},
+
+
+
+    "Ninjas_0" : 
+{"Name" : "Smoke Bomb", "Description" : "+3 Gold", "ID" : "Ninjas_0", "mCost" : "0", "gCost" : "6",  "ATK" : "0", "DEF" : "7", "Rarity" : "1"},
+    "Ninjas_1" : 
+{"Name" : "Shurikan", "Description" : "+2 Gold", "ID" : "Ninjas_1", "mCost" : "0", "gCost" : "3",  "ATK" : "3", "DEF" : "0", "Rarity" : "5"},
+    "Ninjas_2" : 
+{"Name" : "Shinobi", "Description" : "+2 Gold", "ID" : "Ninjas_2", "mCost" : "0", "gCost" : "4",  "ATK" : "4", "DEF" : "2", "Rarity" : "4"},
+
+
+    "Necros_0" : 
+{"Name" : "Zombie", "Description" : "+2 Mana", "ID" : "Necros_0", "mCost" : "3", "gCost" : "0",  "ATK" : "2", "DEF" : "4", "Rarity" : "10"},
+    "Necros_1" : 
+{"Name" : "Necrolyte", "Description" : "Combat: +1 ATK if a Zombie is in your discard", "ID" : "Necros_1", "mCost" : "3", "gCost" : "0",  "ATK" : "3", "DEF" : "3", "Rarity" : "5"},
+    "Necros_2" : 
+{"Name" : "Arch Lich", "Description" : "Combat: Gain the stats of up to 3 Zombies in discard", "ID" : "Necros_2", "mCost" : "6", "gCost" : "0",  "ATK" : "2", "DEF" : "3", "Rarity" : "1"},
+    "Necros_3" : 
+{"Name" : "Demi Lich", "Description" : "Combat: +2 ATK if a Zombie is in your discard", "ID" : "Necros_2", "mCost" : "4", "gCost" : "0",  "ATK" : "3", "DEF" : "4", "Rarity" : "4"},
+
+
+
+    "Wizards_0" : 
+{"Name" : "Magic Missle", "Description" : "+2 Mana", "ID" : "Wizards_0", "mCost" : "3", "gCost":"0", "ATK" : "4", "DEF" : "0", "Rarity" : "4"}
+
+
+
+}
